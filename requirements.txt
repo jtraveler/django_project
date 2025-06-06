@@ -1,4 +1,5 @@
 asgiref==3.8.1
+backports.zoneinfo==0.2.1
 cachetools==5.5.2
 certifi==2025.4.26
 charset-normalizer==3.4.2
@@ -20,3 +21,4 @@ SQLAlchemy==2.0.41
 sqlparse==0.5.3
 typing_extensions==4.13.2
 urllib3==2.2.3
+whitenoise==6.5.0
